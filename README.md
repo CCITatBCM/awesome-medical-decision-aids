@@ -1,5 +1,5 @@
-# Awesome List of Medical Decision Aids
-List of medical decision aid resources
+# Patient Decision Aid Resources
+List of patient decision aid resources.
 
 ## Examples
 ### [Mayo Clinic Shared Decision Making National Resource Center](http://shareddecisions.mayoclinic.org/)
