@@ -1,4 +1,4 @@
-# Awesome Medical Decision Aids
+# Awesome List of Medical Decision Aids
 List of medical decision aid resources
 
 ## Examples
